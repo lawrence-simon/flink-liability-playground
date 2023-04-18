@@ -9,7 +9,7 @@ import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.table.api.Table;
 import org.apache.flink.table.api.bridge.java.StreamTableEnvironment;
 
-public class CoProcessTableTopology {
+public class TableBreachTopology {
 
 
     public static void main(String[] args) throws Exception {

@@ -8,7 +8,7 @@ import org.apache.flink.streaming.api.datastream.KeyedStream;
 import org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 
-public class CoProcessTopology {
+public class DataStreamBreachTopology {
 
 
     public static void main(String[] args) throws Exception {
